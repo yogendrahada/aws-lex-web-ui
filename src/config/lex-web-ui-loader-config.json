@@ -15,7 +15,7 @@
   },
   "ui": {
     "parentOrigin": "",
-    "toolbarTitle": "Order Config",
+    "toolbarTitle": "E-reader Bot",
     "toolbarLogo": "",
     "positiveFeedbackIntent": "",
     "negativeFeedbackIntent": "",
@@ -35,7 +35,7 @@
   },
   "iframe": {
     "iframeOrigin": "",
-    "shouldLoadIframeMinimized": false,
+    "shouldLoadIframeMinimized": true,
     "iframeSrcPath": "/index.html#/?lexWebUiEmbed=true"
   }
 }
