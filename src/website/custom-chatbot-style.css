@@ -16,7 +16,7 @@
 }
 
 .message-bot .message-bubble {
-    background-color: #eeedeb !important;
+    background-color: #E0E0E0 !important;
 }
 
 .message-human .message-bubble {
@@ -62,15 +62,16 @@
 }
 
 .card__title.card__title--primary {
-    background-color: #eeedeb !important;
+    background-color: #FFD740 !important;
 }
 
+.card__actions.button-row {
+  justify-content: left;
+  padding-bottom: 0.15em;
+}
 
 .input-group--text-field input,
 .input-group--text-field textarea,
 .input-group--text-field label {
     font-size: 14px !important;
 }
-
-
-
